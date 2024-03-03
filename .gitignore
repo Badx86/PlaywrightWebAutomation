@@ -3,3 +3,9 @@
 venv/
 idea/
 __pycache__/
+build/
+dist/
+.build/
+.dist/
+*png
+*.spec
