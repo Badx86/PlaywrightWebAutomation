@@ -12,3 +12,7 @@ dist/
 *zip
 *webm
 .env
+*.json
+*.pdf
+*.log
+*.txt
